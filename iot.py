@@ -1,6 +1,6 @@
 import boto3
 import sys
-
+print("working")
 arr=[]
 location=sys.argv[1]
 region = 'us-east-1'
